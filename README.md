@@ -22,7 +22,7 @@ ___
 3. SO - [Parallel Graph](https://github.com/alex2004-l/university-assignments/tree/master/SO-parallel-graph) - C
 4. SO - [Mini-Shell](https://github.com/alex2004-l/university-assignments/tree/master/SO-mini-shell) - C
 5. PCLP4 - [Rustybox]() - Rust
-6. PCLP4 - [Process scheduler]() - Rust
+6. PCLP4 - [Process scheduler](https://github.com/alex2004-l/university-assignments/tree/master/PCLP4-process-scheduler) - Rust
 7. PCom - [Dataplane router]() - C
 8. PCom - [Client-server application for message management]() - C++
 9. PCom - [Web Client Rest API]() - C++
