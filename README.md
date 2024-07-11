@@ -26,9 +26,9 @@ ___
 7. PCom - [Dataplane router](https://github.com/alex2004-l/university-assignments/tree/master/PCom-dataplane-router) - C
 8. PCom - [Client-server application for message management](https://github.com/alex2004-l/university-assignments/tree/master/PCom-client-server-app) - C++
 9. PCom - [Web Client Rest API](https://github.com/alex2004-l/university-assignments/tree/master/PCom-Web-Client-REST-API) - C++
-10. PP - [Linear Regression]() - Scala
-11. PP - [Query Language]() - Scala
-12. PP - [Lambda Calculus interpreter]() - Haskell
+10. PP - [Linear Regression](https://github.com/alex2004-l/university-assignments/tree/master/PP-linear-regression) - Scala
+11. PP - [Query Language](https://github.com/alex2004-l/university-assignments/tree/master/PP-query-language) - Scala
+12. PP - [Lambda Calculus interpreter](https://github.com/alex2004-l/university-assignments/tree/master/PP-lamba-interpreter) - Haskell
 13. PA - [Homework 1]() - C++
 14. PA - [Homework 2]() - C++
 ___
