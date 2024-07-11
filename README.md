@@ -11,11 +11,11 @@ ___
 
 3. MN - [Image compression and digit recognition](https://github.com/alex2004-l/university-assignments/blob/master/MN-project-2/README.md) - MATLAB
 
-4. MN - [Linear regression]() - MATLAB
+4. MN - [Linear regression](https://github.com/alex2004-l/university-assignments/tree/master/MN-linear-regression) - MATLAB
 
-5. MN - [Maze navigation]() - MATLAB
+5. MN - [Maze navigation](https://github.com/alex2004-l/university-assignments/tree/master/MN-maze-navigation) - MATLAB
 
-6. PCLP2 - [Sensor management unit]() - C
+6. PCLP2 - [Sensor management unit](https://github.com/alex2004-l/university-assignments/tree/master/PCLP2-sensor-management-unit) - C
 
 ___
 
