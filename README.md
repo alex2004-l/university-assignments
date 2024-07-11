@@ -7,7 +7,7 @@ ___
 
 1. SDA - [Quadtree compression/decompression program for images](https://github.com/alex2004-l/university-assignments/blob/master/SDA-quadtree-image-compression/README.md)
 
-2. SDA - [Elementary Turing Machine]()
+2. SDA - [Elementary Turing Machine](https://github.com/alex2004-l/university-assignments/tree/master/SDA-magic-tape)
 
 3. MN - [Image compression and digit recognition]()
 
