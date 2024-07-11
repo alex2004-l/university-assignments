@@ -24,7 +24,7 @@ ___
 5. PCLP4 - [Rustybox](https://github.com/alex2004-l/university-assignments/tree/master/PCLP4-rustybox) - Rust
 6. PCLP4 - [Process scheduler](https://github.com/alex2004-l/university-assignments/tree/master/PCLP4-process-scheduler) - Rust
 7. PCom - [Dataplane router](https://github.com/alex2004-l/university-assignments/tree/master/PCom-dataplane-router) - C
-8. PCom - [Client-server application for message management]() - C++
+8. PCom - [Client-server application for message management](https://github.com/alex2004-l/university-assignments/tree/master/PCom-client-server-app) - C++
 9. PCom - [Web Client Rest API](https://github.com/alex2004-l/university-assignments/tree/master/PCom-Web-Client-REST-API) - C++
 10. PP - [Linear Regression]() - Scala
 11. PP - [Query Language]() - Scala
