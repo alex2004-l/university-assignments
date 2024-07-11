@@ -29,6 +29,6 @@ ___
 10. PP - [Linear Regression](https://github.com/alex2004-l/university-assignments/tree/master/PP-linear-regression) - Scala
 11. PP - [Query Language](https://github.com/alex2004-l/university-assignments/tree/master/PP-query-language) - Scala
 12. PP - [Lambda Calculus interpreter](https://github.com/alex2004-l/university-assignments/tree/master/PP-lamba-interpreter) - Haskell
-13. PA - [Homework 1]() - C++
-14. PA - [Homework 2]() - C++
+13. PA - [Homework 1](https://github.com/alex2004-l/university-assignments/tree/master/PA-project-1) - C++
+14. PA - [Homework 2](https://github.com/alex2004-l/university-assignments/tree/master/PA-project-2) - C++
 ___
