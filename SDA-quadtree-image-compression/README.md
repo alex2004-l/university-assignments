@@ -8,7 +8,7 @@
 ---
 
 **QuadTree** - structura pentru arborele cuaternar. Are 3 câmpuri:
-* NodeType - indică tipul nodului, 0 pentru un nod interior și 1 pentru un nod frunză;
+* type - indică tipul nodului, 0 pentru un nod interior și 1 pentru un nod frunză;
 * pixel - reține valoarea RGB pentru un nod frunză;
 * kids - vector de pointeri către copiii nodului curent; NULL pentru nodurile frunză.
 
