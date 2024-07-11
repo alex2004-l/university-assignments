@@ -1,20 +1,33 @@
-.PHONY: build clean run
+.PHONY: build clean run zip
 
-build: main.o queue.o qtree.o 
-	gcc -o quadtree -lm -Wall main.o queue.o qtree.o
+SRC_DIR := src
+OBJ_DIR := obj
 
-main.o: main.c queue.h qtree.h 
-	gcc -c main.c
+CC := gcc
+CFLAGS := -Wall
+LDFLAGS := -lm
 
-queue.o: queue.c queue.h qtree.h
-	gcc -c queue.c
+SRCS := $(wildcard $(SRC_DIR)/*.c)
+OBJS := $(patsubst $(SRC_DIR)/%.c, $(OBJ_DIR)/%.o, $(SRCS))
+TARGET := quadtree
 
-qtree.o: qtree.c qtree.h 
-	gcc -c qtree.c
+build: $(TARGET)
+
+$(TARGET): $(OBJS)
+	$(CC) $(OBJS) -o $@ $(LDFLAGS)
+
+$(OBJ_DIR)/%.o: $(SRC_DIR)/%.c | $(OBJ_DIR)
+	$(CC) -c $(CFLAGS) $< -o $@
+
+$(OBJ_DIR):
+	mkdir -p $(OBJ_DIR)
 
 clean:
-	rm *.o quadtree
-run:
-	./quadtree
+	rm -rf $(OBJ_DIR)
+
+run: $(TARGET)
+	./$(TARGET)
+
 zip:
-	zip tema2.zip main.c queue.c queue.h qtree.c qtree.h Makefile README.md
+	zip tema2.zip $(SRCS) $(SRC_DIR)/*.h Makefile README.md
+
